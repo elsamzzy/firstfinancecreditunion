@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <defs>
+        <radialGradient id="5n63t517ia" cx="29.02%" cy="99.753%" r="101.02%" fx="29.02%" fy="99.753%">
+            <stop offset="0%" stop-color="#FFD677"/>
+            <stop offset="24.63%" stop-color="#F1A454"/>
+            <stop offset="37.93%" stop-color="#F15D3D"/>
+            <stop offset="54.12%" stop-color="#D94967"/>
+            <stop offset="69.95%" stop-color="#C33087"/>
+            <stop offset="91.3%" stop-color="#7D64A7"/>
+            <stop offset="98.52%" stop-color="#5D6DB3"/>
+        </radialGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="url(#5n63t517ia)" fill-rule="nonzero" d="M15 30C6.7 30 0 23.3 0 15S6.7 0 15 0s15 6.7 15 15-6.7 15-15 15z"/>
+        <g transform="translate(6 6)">
+            <path stroke="#FFF" stroke-width="1.31" d="M17 12.9c0 2.5-2 4.5-4.5 4.5H5.3c-2.5 0-4.5-2-4.5-4.5V5.2C.8 2.7 2.8.7 5.3.7h7.2c2.5 0 4.5 2 4.5 4.5v7.7z"/>
+            <path stroke="#FFF" stroke-width="1.601" d="M13 9c0 2.2-1.8 4-4 4s-4-1.8-4-4 1.8-4 4-4c2.7.1 4 1.8 4 4z"/>
+            <circle cx="13.9" cy="4.1" r="1.1" fill="#FFF" fill-rule="nonzero"/>
+        </g>
+    </g>
+</svg>
